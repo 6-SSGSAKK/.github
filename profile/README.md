@@ -36,6 +36,7 @@
 <br />
 
 # 3. 시스템 아키텍처
+![system-architecture](https://github.com/6-SSGSAKK/.github/assets/73014511/c376fc79-3cb5-459e-9a4f-e56a2b4c089e)
 
 <br />
 
