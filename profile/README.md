@@ -40,8 +40,8 @@
 # 2. 팀원 구성
 | **Name**     | 박태훈                                                                  | 박진영                                                                  | 박찬웅                                                                  | 김예진                                                                  | 서여진                                                                                                                                  |
 |:------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-| **Profile**  || | |  |  |  |
-| **Position** | Backend <br/> (팀장)      | Backend              | Backend          | Backend                   | Frontend            | Frontend                     |
+| **Profile**  |<img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/6fcc8ace-bc4a-4dc8-86df-451c7dff299f">|<img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/71bdb6da-a3b0-48e9-87ad-0dae65a58ab2"> | <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/58a5f2fe-3c0e-4812-b8d5-f7410b6265c2">| <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/7933f93a-d68e-4db1-b56d-b9d6be37f502"> | <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/47ec7d32-12bf-4303-9198-7444e2c78c3c"> |  
+| **Position** | Backend <br/> (팀장)      | Backend              | Backend          | Frontend                   | Frontend            | 
 
 
 <br />
