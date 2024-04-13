@@ -77,7 +77,8 @@
 <br />
 
 # 6. ERD
-![ERD 이미지](../docs/erd.png)
+
+![erd](https://github.com/6-SSGSAKK/.github/assets/73014511/5054f42d-ed2a-4140-aa40-e2a6d4155115)
 
 <br />
 
