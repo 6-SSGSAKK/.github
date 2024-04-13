@@ -77,6 +77,7 @@
 <br />
 
 # 6. ERD
+![ERD 이미지](../docs/erd.png)
 
 <br />
 
