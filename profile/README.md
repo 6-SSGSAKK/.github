@@ -273,6 +273,17 @@
 - 배송 메시지 설정 및 수령인 정보를 수정할 수 있습니다.
 - 주문 시 주문한 상품 수량에 따라 재고 수량을 반영시킵니다.
 
+<br />
+  
+<table><thead><tr><th>회원 주문</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/1f395bab-a7fc-4bb3-8c05-fab97f5bb8f0"/>
+</animated-image></td>
+</tr></tbody></table>
+
+<br />
+
 
 <h3>[상품 상세 페이지]</h3>
 
