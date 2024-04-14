@@ -211,6 +211,16 @@
 - 상품리스트, 상품 상세페이지에서 찜 클릭 시 회원의 좋아요 페이지에서 해당 상품을 조회할 수 있습니다.
 - 특정 카테고리 찜 클릭 시 좋아요 페이지에서 해당 카테고리를 조회할 수 있습니다.
 
+  <br />
+  
+  <table><thead><tr><th>상품 찜</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/9ef47fef-c831-470e-b0aa-9c44de7bd4b4"/>
+</animated-image></td>
+</tr></tbody></table>
+
+
 <h3>[회원 장바구니]</h3>
 
 - 특정 상품을 장바구니에 추가할 수 있습니다.
