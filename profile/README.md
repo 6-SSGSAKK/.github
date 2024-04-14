@@ -272,7 +272,7 @@
 <table><thead><tr><th>회원 장바구니</th></tr></thead>
 <tbody>
 <tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/09efd5cd-cd7a-4245-b87d-4bb2dbe01f74"/>
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/18504514-e199-4d66-a911-3a3131322d89"/>
 </animated-image></td>
 </tr></tbody></table>
 
@@ -312,7 +312,7 @@
 
 <br />
 
-  <table><thead><tr><th>상품 리뷰 조회</th></tr></thead>
+<table><thead><tr><th>상품 리뷰 조회</th></tr></thead>
 <tbody>
 <tr><td><animated-image data-catalyst="">
 <img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/9815d2d1-1ba2-45e6-ac7b-15bc1f133536"/>
