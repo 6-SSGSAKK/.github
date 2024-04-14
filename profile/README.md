@@ -45,6 +45,7 @@
 |:------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
 | **Profile**  |<img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/6fcc8ace-bc4a-4dc8-86df-451c7dff299f">|<img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/71bdb6da-a3b0-48e9-87ad-0dae65a58ab2"> | <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/58a5f2fe-3c0e-4812-b8d5-f7410b6265c2">| <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/57d3f608-042c-4ed2-ae40-671dd8057bc1"> | <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/47ec7d32-12bf-4303-9198-7444e2c78c3c"> |  
 | **Position** | Backend <br/> (팀장)      | Backend              | Backend          | Frontend                   | Frontend            | 
+| **Git** | [@hoontaepark](https://github.com/hoontaepark)       | [@icarus012832](https://github.com/icarus012832)    | [@chanchanwoong](https://github.com/chanchanwoong)      | [@venderjin](https://github.com/venderjin)    | [@Yeojinny](https://github.com/Yeojinny)            | 
 
 
 <br />
