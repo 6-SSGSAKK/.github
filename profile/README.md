@@ -216,7 +216,7 @@
 
 <br />
   
-    <table><thead><tr><th>상품 검색</th></tr></thead>
+<table><thead><tr><th>상품 검색</th></tr></thead>
 <tbody>
 <tr><td><animated-image data-catalyst="">
 <img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/b5db53a7-6420-407e-85ef-6854fd64ecce"/>
