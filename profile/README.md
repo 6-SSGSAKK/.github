@@ -267,6 +267,17 @@
 - 장바구니 내 선택한 상품들의 금액을 계산합니다.
 - 회원 기능은 토큰에서 `UUID`를 추출하여 식별하였습니다.
 
+<br />
+  
+<table><thead><tr><th>회원 장바구니</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/09efd5cd-cd7a-4245-b87d-4bb2dbe01f74"/>
+</animated-image></td>
+</tr></tbody></table>
+
+<br />
+
 <h3>[회원 주문]</h3>
 
 - 특정 상품의 상세 페이지에서 상품 주문할 수 있습니다.
