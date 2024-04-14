@@ -159,6 +159,15 @@
 - 로그인 검증 성공 시 백엔드에서 토큰을 발행합니다.
 - 프론트에서 next-auth를 적용하여 세션에 토큰을 저장합니다.
 - 아이디 저장 기능: 쿠키를 사용하여 로그인 버튼 클릭 시 아이디를 저장합니다.
+  
+  <br />
+  
+  <table><thead><tr><th>로그인</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/97e770f4-95ac-455a-9bac-f3173f8c7117"/>
+</animated-image></td>
+</tr></tbody></table>
 
 <h3>[홈 화면]</h3>
 
