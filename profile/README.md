@@ -172,6 +172,17 @@
 - 주소검색 API 활용하여 주소를 입력하고, 아이디 중복확인, 아이디, 비밀번호, 이메일 유효성을 검증합니다.
 - 통합회원만 존재하는 로직으로 소셜로그인 시 통합회원 가입 이력이 없는 경우 소셜 메일 계정으로 통합회원가입을 진행합니다.
 
+<br />
+  
+<table><thead><tr><th>회원가입</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/6534f4a6-a2df-421f-8eec-e23ec93cfe1b"/>
+</animated-image></td>
+</tr></tbody></table>
+
+  <br />
+
 <h3>[로그인]</h3>
 
 - 통합회원 및 소셜로그인(google)
@@ -179,14 +190,16 @@
 - 프론트에서 next-auth를 적용하여 세션에 토큰을 저장합니다.
 - 아이디 저장 기능: 쿠키를 사용하여 로그인 버튼 클릭 시 아이디를 저장합니다.
   
-  <br />
+<br />
   
-  <table><thead><tr><th>로그인</th></tr></thead>
+<table><thead><tr><th>로그인</th></tr></thead>
 <tbody>
 <tr><td><animated-image data-catalyst="">
 <img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/97e770f4-95ac-455a-9bac-f3173f8c7117"/>
 </animated-image></td>
 </tr></tbody></table>
+
+<br />
 
 <h3>[홈 화면]</h3>
 
@@ -194,9 +207,23 @@
 - 네비게이션, 슬라이드 배너를 구현하였습니다.
 - 홈 화면에서 특가 및 베스트 상품 조회가 가능하며 해당 페이지로 이동할 수 있습니다.
 
+<br />
+  
+
 <h3>[상품검색]</h3>
 
 - 키워드를 통한 상품 검색이 가능합니다.
+
+<br />
+  
+    <table><thead><tr><th>상품 검색</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/b5db53a7-6420-407e-85ef-6854fd64ecce"/>
+</animated-image></td>
+</tr></tbody></table>
+
+<br />
 
 <h3>[카테고리, 이벤트, 베스트 상품 목록 조회]</h3>
 
@@ -206,13 +233,23 @@
 - 배송 타입별 필터링이 가능합니다.
 - 베스트 상품은 주문 수량을 기준으로 구현하였습니다.
 
+<br />
+  
+<table><thead><tr><th>카테고리 조회</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/a62a0388-03ed-4769-844a-f99ce6111495"/>
+</animated-image></td>
+</tr></tbody></table>
+
+<br />
 
 <h3>[상품/카테고리 찜]</h3>
 
 - 상품리스트, 상품 상세페이지에서 찜 클릭 시 회원의 좋아요 페이지에서 해당 상품을 조회할 수 있습니다.
 - 특정 카테고리 찜 클릭 시 좋아요 페이지에서 해당 카테고리를 조회할 수 있습니다.
 
-  <br />
+<br />
   
   <table><thead><tr><th>상품 찜</th></tr></thead>
 <tbody>
@@ -221,6 +258,7 @@
 </animated-image></td>
 </tr></tbody></table>
 
+<br />
 
 <h3>[회원 장바구니]</h3>
 
@@ -249,7 +287,17 @@
 - 회원의 경우 주문 상품 구매확정 후 60일 이내의 상품에 대하여 리뷰 작성이 가능합니다.
 - 리뷰 작성만 가능한 상태이며, 작성 가능한 리뷰조회/작성한 리뷰 조회/수정/삭제 기능은 추후 추가 예정입니다.
 - `s3`를 적용하여 리뷰 이미지를 업로드합니다.
-  
+
+<br />
+
+  <table><thead><tr><th>상품 리뷰 조회</th></tr></thead>
+<tbody>
+<tr><td><animated-image data-catalyst="">
+<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/9815d2d1-1ba2-45e6-ac7b-15bc1f133536"/>
+</animated-image></td>
+</tr></tbody></table>
+
+<br />
 
 <h3>[회원 정보 관리]</h3>
 
